@@ -11,7 +11,7 @@
 # Сервисы для работы
 * [Miro](https://miro.com/app/board/uXjVMIepRBE=/?share_link_id=642655778425) 
 * [Miro client-server](https://miro.com/app/board/uXjVMIepRBE=/?share_link_id=642655778425) 
-* 
+* [Trello](https://ooko.pro/login?redirect=%2Fboard%2Fdc0db1ab-f685-4c30-b8ef-3d856b921cd8)
 
 # Видеообзор приложения
   
